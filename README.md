@@ -1,4 +1,4 @@
-# Иван Блинов 👨💻  
+# Иван Блинов 
 **Backend-разработчик**  
 
 [![Telegram](https://img.shields.io/badge/Telegram-@siamo1721-blue)](https://t.me/siamo1721)  
