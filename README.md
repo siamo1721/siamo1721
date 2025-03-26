@@ -21,7 +21,7 @@
 | [Интернет-магазин](https://github.com/siamo1721/shop_kurs) | Java, Spring Boot, Hibernate, PostgreSQL | Бэкенд с JWT-аутентификацией, Docker, логированием |  
 | [Telegram-бот](https://github.com/siamo1721/telegram_bot_spring) | Java, Spring Boot, Telegram API | Бот для отправки шуток с интеграцией Spring |  
 | [Магазин велосипедов](https://github.com/siamo1721/bike_catalog) | Django, Python, REST API | Бэкенд для каталога товаров |  
-| [Автоматизированный сервис](https://github.com/Project-BIT-76) | Docker Compose, PostgreSQL | Разработка БД и инфраструктуры для ML-сервиса |  
+| [Автоматизированный сервис](https://github.com/Project-BIT-76/NeuroRetrainService/tree/siamocsgo) | Docker Compose, PostgreSQL | Разработка БД и инфраструктуры для ML-сервиса |  
 | [Салон красоты](https://github.com/siamo1721/Kurs_salon) | Java, Spring MVC, HTML5, JS | Fullstack-сайт с CRUD и интеграцией БД |  
 | [ArticleHub](https://github.com/siamo1721/ArticleHub) | Node.js, Vue 3, Sequelize | Платформа для статей с аналитикой комментариев |  
 
